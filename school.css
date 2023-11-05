@@ -1,0 +1,77 @@
+/******************************************Universal**************************************************************/
+body {
+    background: linear-gradient(300deg,  #0004ff, #f00000, #0004ff);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+    /*     background-color:rgb(0, 93, 175);     */
+}
+
+.btn {
+    background: #ff0000;
+    background-image: -webkit-linear-gradient(top, #fc3c3c, #fc3c3c);
+    background-image: -moz-linear-gradient(top, #fc3c3c, #fc3c3c);
+    background-image: -ms-linear-gradient(top, #fc3c3c, #fc3c3c);
+    background-image: -o-linear-gradient(top, #fc3c3c, #fc3c3c);
+    background-image: linear-gradient(to bottom, #fc3c3c, #fc3c3c);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #fc3c3c;
+    background-image: -webkit-linear-gradient(top, #ff0000, #0004ff);
+    background-image: -moz-linear-gradient(top, #ff0000, #4c00ff);
+    background-image: -ms-linear-gradient(top, #ff0000, #2f00ff);
+    background-image: -o-linear-gradient(top, #ff0000, #0011ff);
+    background-image: linear-gradient(to bottom, #ff0000, #1100ff);
+    text-decoration: none;
+  }
+
+.p {
+    font-size: 30px;
+}
+
+/*****************************************1st. page*******************************************/
+
+.MLA {
+    padding-top: 100px;
+    font-size: 100px;
+    padding-bottom: 100px;
+    color: rgb(3, 3, 3);
+}
+
+.link1 {
+    color:black;
+}
+
+.div {
+    width: 700px;
+    height: 400px;
+}
+
+
+
+/*****************************************2nd. page*******************************************/
+.MLA2 {
+
+    padding-top: 90px;
+    font-size: 100px;
+    padding-bottom: 50px;
+    color: rgb(3, 3, 3);
+}
+
+.div2{
+    width: 700px;
+    height: 500px;
+    text-align: left;
+}
+
+/*****************************************3rd. page*******************************************/
+
+
